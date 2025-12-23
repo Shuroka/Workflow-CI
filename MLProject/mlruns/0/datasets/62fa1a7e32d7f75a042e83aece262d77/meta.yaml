@@ -1,0 +1,22 @@
+digest: d7e4baf9
+name: dataset
+profile: '{"num_rows": 734, "num_elements": 15414}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "age", "required": true},
+  {"type": "double", "name": "trestbps", "required": true}, {"type": "double", "name":
+  "chol", "required": true}, {"type": "double", "name": "thalch", "required": true},
+  {"type": "double", "name": "oldpeak", "required": true}, {"type": "double", "name":
+  "ca", "required": true}, {"type": "double", "name": "sex_Male", "required": true},
+  {"type": "double", "name": "dataset_Hungary", "required": true}, {"type": "double",
+  "name": "dataset_Switzerland", "required": true}, {"type": "double", "name": "dataset_VA
+  Long Beach", "required": true}, {"type": "double", "name": "cp_atypical angina",
+  "required": true}, {"type": "double", "name": "cp_non-anginal", "required": true},
+  {"type": "double", "name": "cp_typical angina", "required": true}, {"type": "double",
+  "name": "fbs_True", "required": true}, {"type": "double", "name": "restecg_normal",
+  "required": true}, {"type": "double", "name": "restecg_st-t abnormality", "required":
+  true}, {"type": "double", "name": "exang_True", "required": true}, {"type": "double",
+  "name": "slope_flat", "required": true}, {"type": "double", "name": "slope_upsloping",
+  "required": true}, {"type": "double", "name": "thal_normal", "required": true},
+  {"type": "double", "name": "thal_reversable defect", "required": true}]}'
+source: '{"tags": {"mlflow.user": "runner", "mlflow.source.name": "modelling.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "574ada40ede577aae19b109332d3437c57c06fda"}}'
+source_type: code

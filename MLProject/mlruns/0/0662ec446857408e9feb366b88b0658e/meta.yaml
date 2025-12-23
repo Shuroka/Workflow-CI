@@ -1,0 +1,14 @@
+artifact_uri: file:///home/runner/work/Workflow-CI/Workflow-CI/MLProject/mlruns/0/0662ec446857408e9feb366b88b0658e/artifacts
+end_time: 1766466672443
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0662ec446857408e9feb366b88b0658e
+run_name: kindly-goat-843
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766466667279
+status: 3
+tags: []
+user_id: runner
