@@ -4,6 +4,9 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score
 import mlflow
 import mlflow.sklearn
+import os
+
+os.environ["MLFLOW_TRACKING_URI"] = "file:./mlruns"
 
 def main():
     # 1. Load dataset (clean)
